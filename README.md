@@ -8,13 +8,13 @@ If the user consents, the API returns the text of the message, from which you ca
 NPM:
 
 ```sh
-npm install rn-dynamic-app-icon
+npm install rn-android-otp-retriever
 ```
 
 YARN:
 
 ```sh
-yarn add rn-dynamic-app-icon
+yarn add rn-android-otp-retriever
 ```
 
 ## Usage
